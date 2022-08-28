@@ -3,7 +3,7 @@
 Magic Navigation Menu Indicator in React Native | Curve Outside Effects
 This is a example which be written with [reanimated 2](https://github.com/software-mansion/react-native-reanimated/).
 
-<img src="docs/demo.gif" width="300">
+<img src="docs/image.gif" width="300">
 
 ## Installation
 
