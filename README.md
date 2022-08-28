@@ -1,20 +1,35 @@
 # react-native-curve-bottombar
+
 Magic Navigation Menu Indicator in React Native | Curve Outside Effects
+This is a example which be written with [reanimated 2](https://github.com/software-mansion/react-native-reanimated/).
+
+<img src="docs/demo.gif" width="300">
+
 ## Installation
+
+Install dependencies
 
 ```sh
 npm install react-native-curve-bottombar
 ```
 
+or
+
+```sh
+yarn add react-native-curve-bottombar
+```
+
 ## Usage
 
 ```js
-import { multiply } from "react-native-curve-bottombar";
+import { BottomMenu } from 'react-native-curve-bottombar';
 
 // ...
-
-const result = await multiply(3, 7);
 ```
+
+## Example
+
+try it on Expo.
 
 ## Contributing
 
